@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Khi dùng bộ dữ liệu, vui lòng trích dẫn như sau / If you use this dataset, please cite it as below."
+type: dataset
+title: "Số liệu thống kê 34 tỉnh, thành phố Việt Nam (Vietnam 34-province statistics)"
+authors:
+  - name: "Vietnam in Data"
+version: "2026-11-13"
+date-released: "2026-11-13"
+license: CC-BY-4.0
+url: "https://vietnamindata.com"
+repository: "https://github.com/pkvip9999/vietnam-34-provinces-data"
+keywords: [vietnam, provinces, official statistics, demographics, economics]
+references:
+  - type: data
+    title: "Số liệu thống kê (PX-Web, báo cáo kinh tế - xã hội, niên giám thống kê)"
+    authors:
+      - name: "Cục Thống kê (National Statistics Office of Vietnam)"
+    url: "https://www.nso.gov.vn"

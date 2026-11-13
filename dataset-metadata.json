@@ -1,0 +1,17 @@
+{
+  "title": "Vietnam 34 Provinces Statistics (2025 merger)",
+  "subtitle": "199 official indicators by province, region, country, 1988-2025",
+  "id": "vietnamindata/vietnam-34-provinces-statistics",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "vietnam",
+    "demographics",
+    "economics",
+    "government"
+  ],
+  "description": "Official statistics of Vietnam's 34 provinces after the 1 July 2025 merger, from the National Statistics Office (Cục Thống kê), processed by [Vietnam in Data](https://vietnamindata.com). See README.md for columns, flags and citation. Interactive charts and rankings: https://vietnamindata.com"
+}

@@ -1,0 +1,101 @@
+{
+  "name": "vietnam-34-provinces-statistics",
+  "title": "Số liệu thống kê 34 tỉnh, thành phố Việt Nam",
+  "description": "199 chỉ tiêu theo 34 tỉnh, 6 vùng, cả nước, 1988–2025. Nguồn: Cục Thống kê, xử lý bởi Vietnam in Data.",
+  "homepage": "https://vietnamindata.com",
+  "version": "2026-11-13",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cục Thống kê",
+      "path": "https://www.nso.gov.vn"
+    },
+    {
+      "title": "Vietnam in Data",
+      "path": "https://vietnamindata.com"
+    }
+  ],
+  "resources": [
+    {
+      "name": "du-lieu-34-tinh",
+      "path": "data/du-lieu-34-tinh.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "chi_tieu",
+            "type": "string"
+          },
+          {
+            "name": "ten_chi_tieu",
+            "type": "string"
+          },
+          {
+            "name": "don_vi",
+            "type": "string"
+          },
+          {
+            "name": "ma_dia_phuong",
+            "type": "string"
+          },
+          {
+            "name": "cap",
+            "type": "string"
+          },
+          {
+            "name": "dia_phuong",
+            "type": "string"
+          },
+          {
+            "name": "ky",
+            "type": "string",
+            "description": "Y2025 | Q2026-3 | M2026-09"
+          },
+          {
+            "name": "tan_suat",
+            "type": "string"
+          },
+          {
+            "name": "nam",
+            "type": "year"
+          },
+          {
+            "name": "gia_tri",
+            "type": "number"
+          },
+          {
+            "name": "co",
+            "type": "string",
+            "description": "mã cờ: p = sơ bộ / preliminary, e = ước tính / estimate, i = dự án tự tính (ghép tỉnh cũ) / computed by the project, b = đứt chuỗi / series break, u = độ tin cậy thấp / low reliability, d = định nghĩa khác / different definition"
+          },
+          {
+            "name": "nguon",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "chi-tieu",
+      "path": "data/chi-tieu.csv",
+      "format": "csv",
+      "encoding": "utf-8"
+    },
+    {
+      "name": "dia-phuong",
+      "path": "data/dia-phuong.csv",
+      "format": "csv",
+      "encoding": "utf-8"
+    }
+  ]
+}

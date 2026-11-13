@@ -1,0 +1,42 @@
+ma,cap,ten,slug,vung,tinh_cu_hop_thanh,url
+VN,ca_nuoc,Việt Nam,ca-nuoc,,,https://vietnamindata.com/
+V34-1,vung,Trung du và miền núi phía Bắc,trung-du-va-mien-nui-phia-bac,,,https://vietnamindata.com/vung/trung-du-va-mien-nui-phia-bac
+V34-2,vung,Đồng bằng sông Hồng,dong-bang-song-hong,,,https://vietnamindata.com/vung/dong-bang-song-hong
+V34-3,vung,Bắc Trung Bộ,bac-trung-bo,,,https://vietnamindata.com/vung/bac-trung-bo
+V34-4,vung,Duyên hải Nam Trung Bộ và Tây Nguyên,duyen-hai-nam-trung-bo-va-tay-nguyen,,,https://vietnamindata.com/vung/duyen-hai-nam-trung-bo-va-tay-nguyen
+V34-5,vung,Đông Nam Bộ,dong-nam-bo,,,https://vietnamindata.com/vung/dong-nam-bo
+V34-6,vung,Đồng bằng sông Cửu Long,dong-bang-song-cuu-long,,,https://vietnamindata.com/vung/dong-bang-song-cuu-long
+01,tinh,Hà Nội,ha-noi,Đồng bằng sông Hồng,Hà Tây,https://vietnamindata.com/tinh/ha-noi
+04,tinh,Cao Bằng,cao-bang,Trung du và miền núi phía Bắc,,https://vietnamindata.com/tinh/cao-bang
+08,tinh,Tuyên Quang,tuyen-quang,Trung du và miền núi phía Bắc,Hà Giang; Tuyên Quang,https://vietnamindata.com/tinh/tuyen-quang
+11,tinh,Điện Biên,dien-bien,Trung du và miền núi phía Bắc,,https://vietnamindata.com/tinh/dien-bien
+12,tinh,Lai Châu,lai-chau,Trung du và miền núi phía Bắc,,https://vietnamindata.com/tinh/lai-chau
+14,tinh,Sơn La,son-la,Trung du và miền núi phía Bắc,,https://vietnamindata.com/tinh/son-la
+15,tinh,Lào Cai,lao-cai,Trung du và miền núi phía Bắc,Lào Cai; Yên Bái,https://vietnamindata.com/tinh/lao-cai
+19,tinh,Thái Nguyên,thai-nguyen,Trung du và miền núi phía Bắc,Bắc Kạn; Thái Nguyên,https://vietnamindata.com/tinh/thai-nguyen
+20,tinh,Lạng Sơn,lang-son,Trung du và miền núi phía Bắc,,https://vietnamindata.com/tinh/lang-son
+22,tinh,Quảng Ninh,quang-ninh,Đồng bằng sông Hồng,,https://vietnamindata.com/tinh/quang-ninh
+24,tinh,Bắc Ninh,bac-ninh,Đồng bằng sông Hồng,Bắc Giang; Bắc Ninh,https://vietnamindata.com/tinh/bac-ninh
+25,tinh,Phú Thọ,phu-tho,Trung du và miền núi phía Bắc,Hòa Bình; Phú Thọ; Vĩnh Phúc,https://vietnamindata.com/tinh/phu-tho
+31,tinh,Hải Phòng,hai-phong,Đồng bằng sông Hồng,Hải Dương; Hải Phòng,https://vietnamindata.com/tinh/hai-phong
+33,tinh,Hưng Yên,hung-yen,Đồng bằng sông Hồng,Hưng Yên; Thái Bình,https://vietnamindata.com/tinh/hung-yen
+37,tinh,Ninh Bình,ninh-binh,Đồng bằng sông Hồng,Hà Nam; Nam Định; Ninh Bình,https://vietnamindata.com/tinh/ninh-binh
+38,tinh,Thanh Hóa,thanh-hoa,Bắc Trung Bộ,,https://vietnamindata.com/tinh/thanh-hoa
+40,tinh,Nghệ An,nghe-an,Bắc Trung Bộ,,https://vietnamindata.com/tinh/nghe-an
+42,tinh,Hà Tĩnh,ha-tinh,Bắc Trung Bộ,,https://vietnamindata.com/tinh/ha-tinh
+44,tinh,Quảng Trị,quang-tri,Bắc Trung Bộ,Quảng Bình; Quảng Trị,https://vietnamindata.com/tinh/quang-tri
+46,tinh,Huế,hue,Bắc Trung Bộ,,https://vietnamindata.com/tinh/hue
+48,tinh,Đà Nẵng,da-nang,Duyên hải Nam Trung Bộ và Tây Nguyên,Đà Nẵng; Quảng Nam,https://vietnamindata.com/tinh/da-nang
+51,tinh,Quảng Ngãi,quang-ngai,Duyên hải Nam Trung Bộ và Tây Nguyên,Quảng Ngãi; Kon Tum,https://vietnamindata.com/tinh/quang-ngai
+52,tinh,Gia Lai,gia-lai,Duyên hải Nam Trung Bộ và Tây Nguyên,Bình Định; Gia Lai,https://vietnamindata.com/tinh/gia-lai
+56,tinh,Khánh Hòa,khanh-hoa,Duyên hải Nam Trung Bộ và Tây Nguyên,Khánh Hòa; Ninh Thuận,https://vietnamindata.com/tinh/khanh-hoa
+66,tinh,Đắk Lắk,dak-lak,Duyên hải Nam Trung Bộ và Tây Nguyên,Phú Yên; Đắk Lắk,https://vietnamindata.com/tinh/dak-lak
+68,tinh,Lâm Đồng,lam-dong,Duyên hải Nam Trung Bộ và Tây Nguyên,Bình Thuận; Đắk Nông; Lâm Đồng,https://vietnamindata.com/tinh/lam-dong
+75,tinh,Đồng Nai,dong-nai,Đông Nam Bộ,Bình Phước; Đồng Nai,https://vietnamindata.com/tinh/dong-nai
+79,tinh,TP. Hồ Chí Minh,ho-chi-minh,Đông Nam Bộ,Bình Dương; Bà Rịa - Vũng Tàu; TP. Hồ Chí Minh,https://vietnamindata.com/tinh/ho-chi-minh
+80,tinh,Tây Ninh,tay-ninh,Đông Nam Bộ,Tây Ninh; Long An,https://vietnamindata.com/tinh/tay-ninh
+82,tinh,Đồng Tháp,dong-thap,Đồng bằng sông Cửu Long,Tiền Giang; Đồng Tháp,https://vietnamindata.com/tinh/dong-thap
+86,tinh,Vĩnh Long,vinh-long,Đồng bằng sông Cửu Long,Bến Tre; Trà Vinh; Vĩnh Long,https://vietnamindata.com/tinh/vinh-long
+91,tinh,An Giang,an-giang,Đồng bằng sông Cửu Long,An Giang; Kiên Giang,https://vietnamindata.com/tinh/an-giang
+92,tinh,Cần Thơ,can-tho,Đồng bằng sông Cửu Long,Cần Thơ; Hậu Giang; Sóc Trăng,https://vietnamindata.com/tinh/can-tho
+96,tinh,Cà Mau,ca-mau,Đồng bằng sông Cửu Long,Bạc Liêu; Cà Mau,https://vietnamindata.com/tinh/ca-mau
